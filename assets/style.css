@@ -1,0 +1,35 @@
+.parallax-container {
+    min-height: 380px;
+    
+}
+
+.parallax-container .section {
+    width: 100%;
+}
+
+
+#front-end {
+    background: url('./images/front-end.png');
+    height: 120px;
+    width: 200px;
+    display: block;
+}
+
+#back-end {
+    background: url('./images/MERN.png');
+    height: 120px;
+    width: 160px;
+    display: block;
+}
+
+#dna {
+    background: url("./images/DnA.png");
+    height: 118px;
+    width: 140px;
+    display: block;
+}
+
+#cave {
+    height: 800px;
+}
+
