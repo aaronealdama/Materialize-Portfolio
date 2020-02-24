@@ -1,35 +1,41 @@
 .parallax-container {
-    min-height: 380px;
-    
+  min-height: 380px;
 }
 
 .parallax-container .section {
-    width: 100%;
+  width: 100%;
 }
 
-
 #front-end {
-    background: url('./images/front-end.png');
-    height: 120px;
-    width: 200px;
-    display: block;
+  background: url("./images/front-end.png");
+  height: 120px;
+  width: 200px;
+  display: block;
 }
 
 #back-end {
-    background: url('./images/MERN.png');
-    height: 120px;
-    width: 160px;
-    display: block;
+  background: url("./images/MERN.png");
+  height: 120px;
+  width: 160px;
+  display: block;
 }
 
 #dna {
-    background: url("./images/DnA.png");
-    height: 118px;
-    width: 140px;
-    display: block;
+  background: url("./images/DnA.png");
+  height: 118px;
+  width: 140px;
+  display: block;
 }
 
 #cave {
-    height: 800px;
+  height: 800px;
 }
 
+.card {
+  height: 400px;
+  width: 300px;
+}
+
+h1 {
+  text-shadow: 2px 2px black;
+}
