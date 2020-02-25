@@ -67,3 +67,9 @@ h1 {
   75% {opacity: 0.75; left: 75px;}
   100% {opacity: 1; left: 100px;}
 }
+
+@media only screen and (max-width: 360px) {
+  .parallax-container {
+    width: 120vw;
+  }
+}
